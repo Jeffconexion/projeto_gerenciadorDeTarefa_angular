@@ -19,8 +19,8 @@
 Colocando em prática o conceito teórico, construíndo um Gerenciador de Tarefas.
 </p> 
 
-<!--
+
 <p align="center">
-  <img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" />
+  <img src="https://github.com/Jeffconexion/projeto_gerenciadorDeTarefa_angular/blob/main/projeto.gif" />
 </p>
--->
+
