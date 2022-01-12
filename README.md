@@ -1,2 +1,26 @@
-# projeto_gerenciadorDeTarefa_angular
-# Projeto Calculadora  ### Sinopse ### &lt;p>    Criação de uma calculadora em Angular,TypeScript e Bootstrap.  &lt;/p>  ### Camadas ### * 1 - Modulos, componentes e serviços. * 2 - Teste de unidade. * 3 - Documentar o código. * 4 - Operadores. * 5 - Injeção de dependências.   ### Projeto ### &lt;p>  Colocando em prática o conceito teórico, construíndo uma calculadora. &lt;/p>   &lt;p align="center">   &lt;img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" /> &lt;/p>
+# Projeto Gerenciador de Tarefas
+
+### Sinopse ###
+<p> 
+  Criação de um gerenciador de tarefas em Angular,TypeScript e Bootstrap. 
+</p>
+
+### Camadas ###
+* 1 - Criar um Crud.
+* 2 - Aprender a utilizar rotas.
+* 3 - Aprender a criar formulários.
+* 4 - Aprender a criar diretivas.
+* 5 - Aprender a armazenar dados no local storage.
+* 6 - Ciclo de vida dos componentes
+
+
+### Projeto ###
+<p> 
+Colocando em prática o conceito teórico, construíndo um Gerenciador de Tarefas.
+</p> 
+
+<!--
+<p align="center">
+  <img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" />
+</p>
+-->
