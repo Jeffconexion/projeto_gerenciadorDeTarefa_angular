@@ -1,0 +1,2 @@
+# projeto_gerenciadorDeTarefa_angular
+# Projeto Calculadora  ### Sinopse ### &lt;p>    Criação de uma calculadora em Angular,TypeScript e Bootstrap.  &lt;/p>  ### Camadas ### * 1 - Modulos, componentes e serviços. * 2 - Teste de unidade. * 3 - Documentar o código. * 4 - Operadores. * 5 - Injeção de dependências.   ### Projeto ### &lt;p>  Colocando em prática o conceito teórico, construíndo uma calculadora. &lt;/p>   &lt;p align="center">   &lt;img src="https://github.com/Jeffconexion/projeto_calculadora_angular/blob/main/calculadora.PNG" /> &lt;/p>
