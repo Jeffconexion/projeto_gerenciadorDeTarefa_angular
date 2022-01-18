@@ -41,8 +41,21 @@ export class TarefaService {
     localStorage['tarefas'] = JSON.stringify(tarefas);
   }
 
+  remover(id: number): void {
+    let tarefas = this.listarTodos();
+    tarefas = tarefas.filter(tarefa => tarefa.id !== id);
+    localStorage['tarefas'] = JSON.stringify(tarefas);
+  }
 
+  alterarStatus(id: number): void {
+    let tarefas = this.listarTodos();
 
-
+    tarefas.forEach((obj, index, objs) => {
+      if (id === obj.id) {
+        objs[index].concluida = !obj.concluida;
+      }
+    });
+    localStorage['tarefas'] = JSON.stringify(tarefas);
+  }
 
 }
