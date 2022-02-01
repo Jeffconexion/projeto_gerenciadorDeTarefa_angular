@@ -10,7 +10,10 @@ export class TarefaService {
 
 
   listarTodos(): Tarefa[] {
-    let tarefas = JSON.parse(localStorage['Tarefas']);
+    let tarefas;
+
+    if (localStorage['Tarefas'] !== undefined)
+      tarefas = JSON?.parse(localStorage['Tarefas']);
 
     if (tarefas) {
       return tarefas;
