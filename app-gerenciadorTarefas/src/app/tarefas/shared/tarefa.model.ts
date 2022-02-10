@@ -4,10 +4,10 @@ export class Tarefa {
   concluida: boolean;
 
 
-  constructor(id: number, nome: string, concluida: boolean) {
-    this.id = id;
-    this.nome = nome;
-    this.concluida = concluida;
+  constructor() {
+    this.id = 0;
+    this.nome = "";
+    this.concluida = false;
   }
 
 }
