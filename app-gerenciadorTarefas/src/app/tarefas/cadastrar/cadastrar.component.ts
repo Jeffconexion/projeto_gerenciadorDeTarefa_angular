@@ -11,7 +11,6 @@ import { TarefaService } from '../shared/tarefa.service';
 })
 export class CadastrarComponent implements OnInit {
 
-  //@ViewChild('formTarefa') formTarefa: NgForm;
   @ViewChild('formTarefa', { static: true }) formTarefa: NgForm | undefined;
   tarefa: Tarefa;
 
