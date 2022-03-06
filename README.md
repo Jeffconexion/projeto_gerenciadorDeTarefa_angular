@@ -5,7 +5,7 @@
   Criação de um gerenciador de tarefas em Angular,TypeScript e Bootstrap. 
 </p>
 
-### Camadas ###
+### Tópicos ###
 * 1 - Criar um Crud.
 * 2 - Aprender a utilizar rotas.
 * 3 - Aprender a criar formulários.
