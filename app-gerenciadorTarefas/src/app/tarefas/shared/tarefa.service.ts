@@ -11,7 +11,6 @@ export class TarefaService {
 
   listarTodos(): Tarefa[] {
     let tarefas;
-    debugger;
     if (localStorage['tarefas'] !== undefined)
       tarefas = JSON?.parse(localStorage['tarefas']);
 
@@ -29,7 +28,6 @@ export class TarefaService {
   }
 
   buscarPorId(id: number): any {
-    debugger;
     let tarefas = this.listarTodos();
     return tarefas.find(element => element.id == id);
   }
